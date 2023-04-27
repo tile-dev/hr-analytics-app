@@ -1,0 +1,7 @@
+datapane>=0.16.1
+datapane-components>=2023.3.20
+duckdb
+seaborn
+scikit-learn
+scipy
+
